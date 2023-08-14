@@ -1,1 +1,1 @@
-## Just a collection of problems I tried from Leetcode nothing else
+Just a collection of problems I tried from Leetcode nothing else
